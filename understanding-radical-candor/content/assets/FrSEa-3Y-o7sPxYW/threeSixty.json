@@ -1,0 +1,42 @@
+{
+  "version": "3.84.31647.0",
+  "course_id": "6qImZUIwbnC",
+  "title": "Understanding Radical Candor KC",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6pow9zch43p",
+      "title": "Drag and Drop",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6RpLD3lXoGt",
+      "title": "Drag and Drop",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6h4vVhkeV8m",
+      "title": "Drag and Drop",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5oZd9iPeevV",
+      "title": "End",
+      "scene_index": "1.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
