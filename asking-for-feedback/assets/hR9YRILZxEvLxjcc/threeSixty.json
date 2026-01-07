@@ -1,0 +1,62 @@
+{
+  "version": "3.84.31647.0",
+  "course_id": "6nFsDyT4QeD",
+  "title": "Rewarding critcism to get more of it",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Knowledge Check"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5gNPC0ClZ1S",
+      "title": "Beginning",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6VDH4OufTiE",
+      "title": "Rewarding Candor",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5vLvrZjPzZy",
+      "title": "Rewarding Candor",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5VfDHwKEbi6",
+      "title": "Rewarding Candor",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5ZKCZoY1ZsM",
+      "title": "Rewarding Candor",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6N96QmTwfsn",
+      "title": "Rewarding Candor",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6PyUpdolX93",
+      "title": "Rewarding Candor",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5tCwtReed31",
+      "title": "End",
+      "scene_index": "1.8"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
